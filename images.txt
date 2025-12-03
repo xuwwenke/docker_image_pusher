@@ -1,1 +1,1 @@
-docker.io/kubeflownotebookswg/profile-controller:v1.8.0
+docker.io/kubeflownotebookswg/notebook-controller:v1.8.0
