@@ -1,1 +1,1 @@
-kubeflownotebookswg/ml-pipeline-frontend:2.0.0-alpha.7
+strongxyz/frontend:2.0.0-alpha.7
