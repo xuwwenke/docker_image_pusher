@@ -1,1 +1,1 @@
-docker.io/kubeflowmanifestswg/oidc-authservice:e236439
+gcr.io/ml-pipeline/cache-deployer:2.0.3
