@@ -1,1 +1,1 @@
-strongxyz/frontend:2.0.0-alpha.7
+gcr.io/ml-pipeline/mysql:8.0.26
