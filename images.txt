@@ -1,1 +1,1 @@
-docker.io/istio/proxyv2:1.16.0
+ghcr.io/dexidp/dex:v2.31.2
