@@ -1,1 +1,1 @@
-kubeflow/training-operator:v1-5a5f92d
+gcr.io/ml-pipeline/frontend:2.0.5
