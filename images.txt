@@ -1,1 +1,1 @@
-ghcr.io/ml-pipeline/frontend:2.0.3
+ghcr.io/kubeflow-pipelines/frontend:2.0.3
