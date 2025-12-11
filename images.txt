@@ -1,1 +1,1 @@
-wangwei0326/ml-pipeline-frontend:2.0.0-alpha.3
+haoanh98/ml-pipeline-frontend:2.0.5
