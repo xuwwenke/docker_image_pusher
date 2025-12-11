@@ -1,1 +1,1 @@
-huayuanbin/ml-pipeline-frontend:2.0.0-alpha.5
+noahnsimbe/ml-pipeline-frontend:2.1.0
