@@ -1,1 +1,1 @@
-ghcr.io/kubeflow-pipelines/frontend:2.0.5
+wangwei0326/ml-pipeline-frontend:2.0.0-alpha.3
