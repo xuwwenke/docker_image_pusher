@@ -1,1 +1,1 @@
-gcr.io/ml-pipeline/frontend:2.0.5
+gcr.io/ml-pipeline/frontend:2.0.3
