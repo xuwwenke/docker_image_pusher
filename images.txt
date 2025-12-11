@@ -1,1 +1,1 @@
-mirror.gcr.io/ml-pipeline/frontend:2.0.3
+mirror.gcr.io/us-central1-docker.pkg.dev/ml-pipeline/release/frontend:2.0.3
