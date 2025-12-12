@@ -1,1 +1,1 @@
-docker.io/kubeflowmanifestswg/oidc-authservice:e236439
+haoanh98/ml-pipeline-frontend:2.0.5
