@@ -1,1 +1,1 @@
---platform=linux/arm64 pkskubeflow/oidc-authservice:28c59ef
+--platform=linux/arm64 ghcr.io/dexidp/dex:v2.31.2
