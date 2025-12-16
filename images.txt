@@ -1,1 +1,1 @@
---platform=linux/arm64 docker.io/kubeflowmanifestswg/oidc-authservice:e236439
+--platform=linux/arm64 pkskubeflow/oidc-authservice:28c59ef
