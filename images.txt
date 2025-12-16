@@ -1,1 +1,1 @@
-gcr.io/arrikto/kubeflow/oidc-authservice:e236439
+docker.io/kubeflowmanifestswg/oidc-authservice:e236439
