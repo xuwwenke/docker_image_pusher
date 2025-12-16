@@ -1,1 +1,1 @@
-haoanh98/ml-pipeline-frontend:2.0.5
+gcr.io/arrikto/kubeflow/oidc-authservice:e236439
