@@ -1,1 +1,1 @@
-ghcr.io/dexidp/dex:v2.36.0
+--platform=linux/arm64 ghcr.io/dexidp/dex:v2.36.0
