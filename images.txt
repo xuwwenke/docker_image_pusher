@@ -1,1 +1,1 @@
---platform=linux/arm64 ghcr.io/dexidp/dex:v2.31.2
+--platform=linux/arm64 gcr.io/arrikto/kubeflow/oidc-authservice:e236439
