@@ -1,1 +1,1 @@
-docker.io/kubeflowmanifestswg/oidc-authservice:e236439
+ghcr.io/dexidp/dex:v2.36.0
