@@ -1,1 +1,1 @@
---platform=linux/arm64 registry.access.redhat.com/ubi9/ubi-minimal:latest
+--platform=linux/arm64 ubauntu:24.04
