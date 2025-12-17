@@ -1,1 +1,1 @@
---platform=linux/arm64 gcr.io/arrikto/kubeflow/oidc-authservice:e236439
+--platform=linux/arm64 docker.io/library/golang:latest
