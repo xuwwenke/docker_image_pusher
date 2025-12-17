@@ -1,1 +1,1 @@
---platform=linux/arm64 ubauntu:24.04
+ubauntu:24.04
