@@ -1,1 +1,1 @@
---platform=linux/arm64 docker.io/library/golang:latest
+--platform=linux/arm64 ubi-minimal:latest
