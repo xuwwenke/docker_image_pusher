@@ -1,2 +1,2 @@
---platform=linux/arm64 ankane/pgvector:v0.5.1-postgres-14
+--platform=linux/arm64 xingqiangchen/dify-worker:1.0.0
 
