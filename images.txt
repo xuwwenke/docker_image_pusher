@@ -1,1 +1,1 @@
---platform=linux/arm64 difyai/dify-api:0.6.10
+--platform=linux/arm64 langgenius/dify-api:0.6.10
