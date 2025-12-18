@@ -1,2 +1,2 @@
---platform=linux/arm64 langgenius/dify-worker:0.6.10
+--platform=linux/arm64 dockerpull.pw/langgenius/dify-worker:0.6.10
 
