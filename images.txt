@@ -1,1 +1,2 @@
---platform=linux/arm64 mcp-server-kubernetes:latest
+--platform=linux/arm64 mcp/kubernetes:latest
+
