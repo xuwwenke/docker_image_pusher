@@ -1,2 +1,2 @@
---platform=linux/arm64 docker.io/ankane/pgvector:v0.5.1-postgres-14
+--platform=linux/arm64 ankane/pgvector:v0.5.1-postgres-14
 
