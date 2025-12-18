@@ -1,2 +1,2 @@
---platform=linux/arm64 fengmozhang/dify-worker:1.10.0
+--platform=linux/arm64 fengmozhang/dify-worker:1.10.1-fix
 
