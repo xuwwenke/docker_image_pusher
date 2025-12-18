@@ -1,1 +1,1 @@
-docker.io/istio/pilot:1.17.5
+--platform=linux/arm64 difyai/dify-api:0.6.10
