@@ -1,2 +1,2 @@
---platform=linux/arm64 fengmozhang/dify-worker:1.10.1-fix
+--platform=linux/arm64 cr.weaviate.io/semitechnologies/weaviate:1.27.27
 
