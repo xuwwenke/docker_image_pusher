@@ -1,2 +1,2 @@
---platform=linux/amd64 haoanh98/ml-pipeline-argoexec:v3.3.10-license-compliance
+--platform=linux/amd64 python:3.10
 
