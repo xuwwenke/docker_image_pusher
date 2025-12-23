@@ -1,2 +1,2 @@
---platform=linux/arm64 cr.weaviate.io/semitechnologies/weaviate:1.27.27
+--platform=linux/amd64 gcr.io/ml-pipeline/argoexec:v3.3.10-license-compliance
 
