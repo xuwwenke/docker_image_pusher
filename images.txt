@@ -1,1 +1,1 @@
---platform=linux/arm64 ollama/ollama
+--platform=linux/amd64 ollama/ollama
