@@ -1,1 +1,1 @@
---platform=linux/amd64 ghcr.io/kubeflow/katib/pytorch-mnist-cpu:latest
+--platform=linux/amd64 ghcr.io/kubeflow/katib/tf-mnist-with-summaries:latest
