@@ -1,1 +1,1 @@
---platform=linux/amd64 ollama/ollama
+--platform=linux/amd64 ghcr.io/kubeflow/katib/pytorch-mnist-cpu:latest
