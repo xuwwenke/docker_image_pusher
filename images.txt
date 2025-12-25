@@ -1,1 +1,1 @@
---platform=linux/amd64 ghcr.io/kubeflow/katib/tf-mnist-with-summaries:latest
+--platform=linux/amd64 kserve/sklearnserver:v0.11.1
