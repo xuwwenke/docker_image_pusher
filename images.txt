@@ -1,1 +1,1 @@
---platform=linux/amd64 gcr.io/kaniko-project/executor:latest
+--platform=linux/amd64 pytorch/pytorch:2.1.0-cpu
