@@ -1,1 +1,1 @@
---platform=linux/amd64 kserve/sklearnserver:v0.11.1
+--platform=linux/amd64 gcr.io/kaniko-project/executor:latest
