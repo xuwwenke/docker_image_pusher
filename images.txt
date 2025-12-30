@@ -1,1 +1,1 @@
---platform=linux/amd64 python:3.10-slim
+--platform=linux/amd64 ghcr.io/kubeflow/kubeflow/notebook-servers/jupyter-pytorch
