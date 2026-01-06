@@ -1,1 +1,1 @@
---platform=linux/amd64 bloodstar/hexo
+--platform=linux/arm64 istio/pilot:1.15.0
