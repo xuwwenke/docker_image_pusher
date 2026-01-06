@@ -1,1 +1,1 @@
---platform=linux/amd64 ghcr.io/kubeflow/kubeflow/notebook-servers/jupyter-pytorch
+--platform=linux/amd64 bloodstar/hexo
