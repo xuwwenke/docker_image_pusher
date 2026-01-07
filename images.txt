@@ -1,1 +1,1 @@
---platform=linux/arm64  jupyter/base-notebook:ubuntu-22.04
+--platform=linux/arm64  alpine:3.10
