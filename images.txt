@@ -1,1 +1,1 @@
---platform=linux/arm64 ccr.ccs.tencentyun.com/cube-studio/notebook:enterprise-jupyter-ubuntu-cpu-pro
+--platform=linux/arm64 typhoon1986/mlops-ide:3.15.0
