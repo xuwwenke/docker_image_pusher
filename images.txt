@@ -1,1 +1,1 @@
---platform=linux/arm64 typhoon1986/mlops-ide:3.15.0
+--platform=linux/amd64 typhoon1986/mlops-ide:3.15.0
