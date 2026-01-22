@@ -1,1 +1,1 @@
---platform=linux/amd64 typhoon1986/mlops-ide:3.15.0
+--platform=linux/arm64 patrikx3/p3x-redis-ui:2025.10.110
