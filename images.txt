@@ -1,1 +1,1 @@
---platform=linux/amd64 rayproject/ray:2.46.0
+--platform=linux/amd64 volcanosh/dist-mnist-tf-example:0.0.1
