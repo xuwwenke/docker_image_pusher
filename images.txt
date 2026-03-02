@@ -1,1 +1,1 @@
---platform=linux/amd64 volcanosh/dist-mnist-tf-example:0.0.1
+--platform=linux/arm64 hiyouga/llamafactory:latest
