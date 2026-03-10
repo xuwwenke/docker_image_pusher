@@ -1,1 +1,1 @@
---platform=linux/arm64 hiyouga/llamafactory:latest
+--platform=linux/amd64 ghcr.io/mlflow/mlflow:v2.9.2
