@@ -1,1 +1,1 @@
---platform=linux/arm64 ghcr.io/mlflow/mlflow:v2.9.2
+--platform=linux/arm64 openeuler/mlflow:latest
