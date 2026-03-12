@@ -1,1 +1,1 @@
---platform=linux/arm64 openeuler/mlflow:latest
+--platform=linux/amd64 ollama/ollama:latest
