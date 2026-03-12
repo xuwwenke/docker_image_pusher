@@ -1,1 +1,1 @@
---platform=linux/amd64 vllm/vllm-openai:latest
+--platform=linux/amd64 imroc/open-webui:main
