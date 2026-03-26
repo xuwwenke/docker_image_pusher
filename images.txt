@@ -1,1 +1,1 @@
---platform=linux/amd64 imroc/open-webui:main
+--platform=linux/amd64 public.ecr.aws/q9t5s3a7/vllm-cpu-release-repo:latest
