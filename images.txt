@@ -1,1 +1,1 @@
---platform=linux/amd64 public.ecr.aws/q9t5s3a7/vllm-cpu-release-repo:latest
+--platform=linux/amd64 codercom/code-server:latest
