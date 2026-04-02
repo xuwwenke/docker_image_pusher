@@ -1,1 +1,1 @@
---platform=linux/amd64 ghcr.io/openhands/runtime:0.62-nikolaik
+--platform=linux/amd64 mcr.microsoft.com/vscode/devcontainers/base:ubuntu-22.04
