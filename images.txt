@@ -1,1 +1,1 @@
---platform=linux/amd64 mcr.microsoft.com/vscode/devcontainers/base:ubuntu-22.04
+--platform=linux/amd64 bytedance/marscode:latest
