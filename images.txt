@@ -1,1 +1,1 @@
---platform=linux/amd64 ghcr.io/openhands/openhands:0.62
+--platform=linux/amd64 ghcr.io/openhands/runtime:0.62-nikolaik
