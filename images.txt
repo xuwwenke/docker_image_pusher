@@ -1,1 +1,1 @@
---platform=linux/amd64 bytedance/marscode:latest
+--platform=linux/amd64 ghcr.io/ggml-org/llama.cpp:server
