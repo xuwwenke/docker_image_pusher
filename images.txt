@@ -1,1 +1,1 @@
---platform=linux/amd64 ghcr.io/ggml-org/llama.cpp:server
+--platform=linux/amd64 registry.k8s.io/sig-storage/snapshot-controller:v8.5.0
