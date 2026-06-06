@@ -1,1 +1,1 @@
---platform=linux/amd64 ghcr.io/kopia/kopia:0.23.0
+--platform=linux/amd64 kopia/kopia:0.23.0
