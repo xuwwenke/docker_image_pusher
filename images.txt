@@ -1,1 +1,1 @@
---platform=linux/amd64 kopia/kopia:0.23.0
+--platform=linux/amd64 rayproject/ray:2.52.0
