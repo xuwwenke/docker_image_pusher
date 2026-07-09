@@ -1,1 +1,1 @@
---platform=linux/amd64 rayproject/ray:2.52.0
+--platform=linux/amd64 rayproject/ray:2.51.2
