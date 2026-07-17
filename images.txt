@@ -1,1 +1,1 @@
---platform=linux/amd64 seldonio/mlserver:latest
+--platform=linux/amd64  seldonio/mlserver:1.6.2
