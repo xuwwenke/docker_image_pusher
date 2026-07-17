@@ -1,1 +1,1 @@
---platform=linux/amd64 rayproject/ray:2.51.2
+--platform=linux/amd64 ghcr.io/abetlen/llama-cpp-python
