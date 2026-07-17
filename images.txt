@@ -1,1 +1,1 @@
---platform=linux/amd64 ghcr.io/abetlen/llama-cpp-python
+--platform=linux/amd64 seldonio/mlserver:latest
