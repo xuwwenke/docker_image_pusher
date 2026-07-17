@@ -1,1 +1,1 @@
---platform=linux/amd64  seldonio/mlserver:1.7.1
+--platform=linux/amd64  seldonio/mlserver-sklearn:1.7.1
