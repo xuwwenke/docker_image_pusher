@@ -1,7 +1,1 @@
---platform=linux/arm64 registry.k8s.io/sig-storage/csi-provisioner:v4.0.0
---platform=linux/arm64 registry.k8s.io/sig-storage/csi-snapshotter:v6.3.3
---platform=linux/arm64 registry.k8s.io/sig-storage/livenessprobe:v2.12.0
---platform=linux/arm64 registry.k8s.io/sig-storage/nfsplugin:v4.6.0
---platform=linux/arm64 registry.k8s.io/sig-storage/livenessprobe:v2.12.0
---platform=linux/arm64 registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.10.0
---platform=linux/arm64 registry.k8s.io/sig-storage/nfsplugin:v4.6.0
+--platform=linux/amd64 pytorch/pytorch:2.1.0-cpu
