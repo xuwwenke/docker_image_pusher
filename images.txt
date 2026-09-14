@@ -1,1 +1,1 @@
---platform=linux/amd64 rayproject/ray:nightly-py39-cpu
+--platform=linux/amd64 docker.io/heartexlabs/label-studio:1.23.0
