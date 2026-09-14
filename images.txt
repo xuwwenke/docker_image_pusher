@@ -1,1 +1,1 @@
---platform=linux/amd64 docker.io/heartexlabs/label-studio:1.23.0
+--platform=linux/amd64 docker.io/bitnamilegacy/postgresql:17.6.0
