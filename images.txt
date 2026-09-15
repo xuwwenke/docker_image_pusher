@@ -1,1 +1,1 @@
---platform=linux/amd64 docker.io/bitnami/minio:2022
+--platform=linux/amd64 argilla/argilla-server:v2.8.0
