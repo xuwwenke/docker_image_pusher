@@ -1,1 +1,3 @@
---platform=linux/amd64 argilla/argilla-server:v2.8.0
+--platform=linux/amd64 docker.elastic.co/elasticsearch/elasticsearch:8.17.0
+--platform=linux/amd64 postgres:15
+--platform=linux/amd64 redis:7.2
