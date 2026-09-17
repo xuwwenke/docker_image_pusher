@@ -1,3 +1,1 @@
---platform=linux/amd64 docker.elastic.co/elasticsearch/elasticsearch:8.17.0
---platform=linux/amd64 postgres:15
---platform=linux/amd64 redis:7.2
+--platform=linux/amd64 heartexlabs/label-studio-ml-backend:bertclass-20260902.025117-master-54206e6
