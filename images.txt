@@ -1,1 +1,1 @@
---platform=linux/amd64 heartexlabs/label-studio-ml-backend:bertclass-20260902.025117-master-54206e6
+--platform=linux/amd64 cr.weaviate.io/semitechnologies/weaviate:1.40.0
