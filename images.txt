@@ -1,1 +1,1 @@
---platform=linux/amd64 docker.io/alpine:latest
+--platform=linux/amd64 cr.weaviate.io/semitechnologies/weaviate:1.27.27
