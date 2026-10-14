@@ -1,1 +1,1 @@
---platform=linux/amd64 cr.weaviate.io/semitechnologies/weaviate:1.27.27
+--platform=linux/amd64 docker.io/bitnamilegacy/postgresql:15.3.0-debian-11-r7
